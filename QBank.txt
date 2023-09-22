@@ -1,0 +1,600 @@
+_______ is the smallest unit of data in a computer?
+Gigabyte 
+Bit 
+Byte 
+Terabyte
+b
+Which of the following is NOT an anti-virus software?
+Avast 
+Linux 
+Norton 
+Kaspersky
+b
+In the context of digital computer, which of the following pairs of digits is referred to as binary code?
+3 and 4 
+0 and 1 
+2 and 3 
+1 and 2
+b
+Which unit of the computer is considered as the brain of the computer?
+Memory unit 
+Input unit 
+CPU 
+Output unit
+c
+What is the full form of PROM?
+Program read-only memory 
+Primary read-only memory 
+Programmable read-only memory 
+Program read-output Memory
+c
+In the context of computing, what is the full form of URL?
+Undistributed Resource Locator 
+Unified Resource Locator 
+Uniform Resource Locator
+Uniform Region Locator
+c
+Which of the following is an input device used to enter motion data in computers or other electronic devices?
+Monitor 
+Trackball 
+Plotter 
+Joystick
+b
+In the context of computing, a byte is equal to _____ bits?
+4 
+16 
+24 
+8
+d
+_____ is a small, portable flash memory card that plugs into a computer’s USB port and functions as a portable hard drive?
+Flash drive
+CD-RW
+DVD-ROM
+CD-ROM
+a
+Which of the following devices is NOT used to enter data into a computer?
+Mouse 
+Keyboard 
+Scanner 
+Monitor
+d
+Which of the following is an input device of a computer?
+Speaker 
+Printer 
+Scanner 
+Monitor
+c
+Transistors belong to which of the following generation of the computers?
+First 
+Second 
+Third 
+Fourth
+b
+Trackball is which of the following devices?
+Input device 
+Touchpad 
+Output device 
+Barcode reader 
+a
+Which type of computers is used to control air traffic and radar of national defence?
+Personal computers 
+Analogue computers 
+Hybrid computers 
+Digital computers 
+c
+How many function keys are present on a standard PC keyboard?
+10 
+9 
+12 
+15 
+c
+A computer on the Internet that uses HTTP protocol is known as-
+LAN 
+Web Server 
+WAP 
+WLAN 
+b
+Third generation computers used:
+vacuum tubes 
+integrated circuits 
+Transistors 
+VLSI technique 
+b
+What is the shortcut key for the central alignment of a line or text in MS Office software?
+Ctrl+E 
+Ctrl+C 
+Ctrl+G
+Ctrl+A
+a
+_______ is the central server in computer network which lets the concerned user utilise the storage capacity of the server?
+Application Server 
+File Server 
+Print Server 
+Web Server
+b
+Which of the following is NOT a portable device?
+iPods
+Laptops
+Desktop computers
+Thumb drives
+c
+In the field of computing, what does ENIAC stand for?
+Electronic Numerical Integrator and Computer
+Electronic Numerical Integrated Advanced Computer
+Electronic Numerals Integration and Computing
+Electronic Numbers Integration and Computer
+a
+Which of the following is an input device that utilises a light-sensitive detector to select objects on a display screen?
+Light pen
+Bar code reader
+Optical mark recognition (OMR)
+Magnetic ink character recognition (MICR)
+a
+Which company manufactured the first microprocessor 4004?
+ENOcean Private Company
+NVIDIA Corporation
+PLX Devices
+INTEL Corporation
+d
+What is 'Roadeo'?
+A robot that cleans city roads
+A robot that fills potholes
+A robot that drives taxis
+A robot that helps maintain traffic
+d
+The speed of the Central Processing Unit (CPU) is measured in_________, which represents a CPU cycle?
+Gigabyte (GB)
+Hertz (Hz)
+Terabyte (TB)
+Kilobyte (KB)
+b
+Which programming language is known for its versatility and use in web development?
+JavaScript
+Python
+C++
+Ruby
+b
+What does HTML stand for in the context of web development?
+Hyperlink Text Markup Language
+HyperText Transfer Protocol
+HyperText Markup Language
+High-Level Text Manipulation Language
+c
+Which data structure follows the Last In, First Out (LIFO) principle?
+Queue
+Stack
+Linked List
+Array
+b
+What is the primary purpose of an operating system in a computer?
+Managing hardware resources
+Running applications
+Displaying graphical user interfaces
+Processing user input
+a
+Which sorting algorithm has a worst-case time complexity of O(n^2) but is simple to implement?
+QuickSort
+MergeSort
+BubbleSort
+InsertionSort
+c
+Which networking protocol is used to send email messages over the internet?
+HTTP
+FTP
+SMTP
+DNS
+c
+What is the purpose of a firewall in network security?
+Blocking unwanted websites
+Protecting against viruses
+Monitoring network traffic
+Controlling incoming and outgoing network traffic
+d
+Which data structure organizes elements in a hierarchical tree-like structure?
+Queue
+Stack
+Graph
+Tree
+d
+In object-oriented programming, what is encapsulation?
+A method of data hiding
+A method of code execution
+A method of inheritance
+A method of interface design
+a
+Which programming paradigm emphasizes immutability and pure functions?
+Procedural programming
+Object-oriented programming
+Functional programming
+Logical programming
+c
+What is the purpose of SQL in database management?
+Storing and retrieving data
+Managing hardware resources
+Creating graphical user interfaces
+Running server scripts
+a
+Which cryptographic algorithm is commonly used for secure communication over the internet?
+AES
+DES
+RSA
+SHA-1
+a
+What is the primary function of a router in a computer network?
+Filtering and forwarding data packets between networks
+Managing user authentication
+Providing internet access
+Managing firewall rules
+a
+What is the term for a software program that simulates a hardware or software environment for testing purposes?
+Emulator
+Compiler
+Debugger
+Interpreter
+a
+Which programming language is commonly used for developing mobile applications on the Android platform?
+Swift
+Java
+C#
+Kotlin
+d
+What is the purpose of a cache memory in a computer system?
+Storing permanent data
+Providing long-term storage
+Speeding up data access
+Running background tasks
+c
+In computer graphics, what does GPU stand for?
+Graphics Processing Unit
+General Processing Unit
+Graphical Performance Unit
+Gaming Processing Unit
+a
+What is the difference between HTTP and HTTPS in web communication?
+HTTP is secure, while HTTPS is not.
+HTTPS encrypts data, while HTTP does not.
+HTTP uses port 80, while HTTPS uses port 443.
+There is no difference; they are the same.
+b
+Which data structure is often used to implement a priority queue?
+Queue
+Stack
+Linked List
+Heap
+d
+What is the purpose of a DNS server on the internet?
+Managing email communication
+Resolving domain names to IP addresses
+Storing website content
+Filtering web traffic
+b
+What is the primary purpose of an API (Application Programming Interface)?
+Providing a user interface for applications
+Managing hardware resources
+Enabling communication between software components
+Generating random numbers
+c
+Which programming language is commonly used for data analysis and scientific computing?
+Java
+R
+Ruby
+PHP
+b
+What does MVC stand for in the context of software architecture?
+Model View Control
+Model View Code
+Model View Controller
+Model Viewer Component
+c
+Which search algorithm is often used for finding the shortest path in a graph?
+Depth-First Search (DFS)
+Breadth-First Search (BFS)
+Dijkstra's Algorithm
+A* Algorithm
+c
+What is the purpose of a version control system like Git?
+Managing software licenses
+Tracking changes in source code
+Running automated tests
+Creating user interfaces
+b
+Which data type is used to store a sequence of characters in programming?
+Integer
+Float
+String
+Boolean
+c
+What is the primary function of a compiler in software development?
+Executing code line by line
+Translating high-level code to machine code
+Debugging code
+Managing databases
+b
+In computer security, what is a DDoS attack?
+A type of encryption algorithm
+A method of data compression
+A denial-of-service attack involving multiple compromised computers
+A form of malware
+c
+Which programming language is commonly used for building web applications on the server-side?
+HTML
+CSS
+JavaScript
+Node.js
+d
+What is the purpose of a CDN (Content Delivery Network) in web hosting?
+Storing website content
+Managing user authentication
+Running server scripts
+Distributing content to multiple locations for faster access
+d
+Which data structure is used to represent a linear collection of elements with constant-time access to its elements?
+Queue
+Stack
+Linked List
+Array
+d
+What is the primary function of a database management system (DBMS)?
+Running web servers
+Managing hardware resources
+Storing and retrieving data
+Generating reports
+c
+Which programming language is often used for game development?
+Python
+C#
+Java
+COBOL
+b
+What is the purpose of an IDE (Integrated Development Environment)?
+Managing user authentication
+Writing code documentation
+Providing tools for software development tasks
+Running virtual machines
+c
+Which protocol is used for secure file transfer over a network?
+FTP
+HTTP
+SMTP
+SSH
+d
+What is the primary function of a VPN (Virtual Private Network)?
+Encrypting web traffic
+Managing email communication
+Blocking unwanted websites
+Running server scripts
+a
+Which data structure is used to represent a non-linear collection of elements?
+Queue
+Stack
+Graph
+Tree
+d
+What is the purpose of a compiler optimization in programming?
+Reducing the size of source code
+Improving code execution speed and efficiency
+Creating user interfaces
+Managing databases
+b
+Which data type is commonly used for representing true or false values in programming?
+Integer
+Float
+String
+Boolean
+d
+What does URL stand for in web browsing?
+Uniform Resource Locator
+Universal Resource Language
+Unified Reference Link
+User-friendly Resource Location
+a
+What is the primary purpose of a firewall in network security?
+Filtering network traffic
+Providing internet access
+Managing user authentication
+Running server scripts
+a
+Which data structure is often used to implement a first-in, first-out (FIFO) queue?
+Stack
+Queue
+Linked List
+Hash Table
+b
+In the context of programming languages, what does "syntax" refer to?
+The meaning of a variable
+The way code is organized and structured
+The speed of code execution
+The documentation of code
+b
+What is the primary role of a web server in serving web pages to clients?
+Rendering web pages in browsers
+Managing user authentication
+Handling HTTP requests and delivering web content
+Executing JavaScript code
+c
+Which programming language is commonly used for artificial intelligence and machine learning?
+Java
+Python
+C#
+Ruby
+b
+In networking, what does IP stand for?
+Internet Protocol
+Internal Proxy
+Interactive Protocol
+Internet Proxy
+a
+What is the purpose of a compiler in the software development process?
+Managing hardware resources
+Translating high-level code into machine code
+Debugging code
+Running web servers
+b
+Which data structure allows you to store key-value pairs and efficiently retrieve values by their keys?
+Queue
+Stack
+Dictionary
+Set
+c
+In object-oriented programming, what is the process of creating a new instance of a class called?
+Inheritance
+Polymorphism
+Abstraction
+Instantiation
+d
+What is the primary purpose of a content management system (CMS) in web development?
+Managing hardware resources
+Providing internet access
+Simplifying the creation and management of websites
+Running server scripts
+c
+Which encryption method is commonly used to secure data transmitted over Wi-Fi networks?
+WPA
+SSL
+HTTP
+TCP
+a
+What does the acronym API stand for in the context of software development?
+Application Programming Interface
+Advanced Programming Interface
+Application Program Integration
+Automated Programming Interface
+a
+In database management, what is a primary key?
+A key used for encryption
+A unique identifier for a record in a database table
+A key used for authentication
+A key used to access the database
+b
+What is the purpose of a microcontroller in embedded systems?
+Displaying graphics on a screen
+Managing user authentication
+Executing small, specific tasks within a device
+Running web servers
+c
+Which programming language is often used for developing desktop applications on Windows?
+Java
+C#
+Python
+Ruby
+b
+What does CSS stand for in web development?
+Cascading Style Sheets
+Centralized Style Syntax
+Computer System Security
+Code Style Syntax
+a
+What is the primary function of a database index?
+Sorting records in a database
+Managing user authentication
+Accelerating data retrieval by providing quick access to specific data
+Running server scripts
+c
+Which data structure is used to store a collection of elements with no specific order?
+Queue
+Stack
+Linked List
+Set
+d
+What is the purpose of a virtual machine (VM) in computer science?
+Running physical servers
+Simulating a separate computer within a computer
+Managing user authentication
+Providing internet access
+b
+In cybersecurity, what does the term "phishing" refer to?
+A type of malware
+A method of encrypting data
+A method of disguising network traffic
+An attempt to deceive individuals into revealing sensitive information
+d
+Which data type is commonly used to store whole numbers in programming?
+Integer
+Float
+String
+Boolean
+a
+What is the purpose of a RAID configuration in data storage?
+Accelerating data retrieval
+Redundancy and fault tolerance
+Managing user authentication
+Running web servers
+b
+Which programming language is often used for web scraping and data extraction?
+Java
+Python
+C++
+Ruby
+b
+What does HTML5 introduce in web development?
+A new way to define database schemas
+Improved multimedia support and new semantic elements
+A simplified syntax for JavaScript
+Support for 3D graphics in browsers
+b
+What is the primary purpose of a command-line interface (CLI) in computing?
+Running graphical applications
+Managing hardware resources
+Interacting with a computer using text commands
+Providing internet access
+c
+Which data structure represents a collection of elements with a defined order and allows for fast random access?
+Queue
+Stack
+Linked List
+Array
+d
+What is the purpose of a DNS resolver in networking?
+Managing email communication
+Translating domain names to IP addresses
+Storing website content
+Providing internet access
+b
+Which programming language is commonly used for building cross-platform mobile applications?
+Swift
+Java
+C#
+React Native
+d
+In computer graphics, what does RGB stand for?
+Red, Green, Blue
+Real Graphics Bit
+Random Graphics Buffer
+Rich Graphical Background
+a
+What is the purpose of a garbage collector in programming languages like Java?
+Managing hardware resources
+Translating code into machine language
+Automatic memory management by reclaiming unused memory
+Running web servers
+c
+What is the purpose of a DNS server on the internet?
+Managing email communication
+Resolving domain names to IP addresses
+Storing website content
+Filtering web traffic
+b
+What is the primary function of a compiler in software development?
+Executing code line by line
+Translating high-level code to machine code
+Debugging code
+Managing databases
+b
+In computer security, what is a DDoS attack?
+A type of encryption algorithm
+A method of data compression
+A denial-of-service attack involving multiple compromised computers
+A form of malware
+c
+Which programming language is commonly used for game development?
+Python
+C#
+Java
+COBOL
+b
+What does VPN stand for in the context of network security and privacy?
+Virtual Private Network
+Very Personal Network
+Virtual Public Network
+Visible Personal Network
+a
